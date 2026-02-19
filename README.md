@@ -6,7 +6,6 @@ Librerías Utilizadas
 -React Bootstrap
 -Firebase
 -React Router Dom
-
-coder-flex-88100-7642d
+-Sitio de Firebase Hosting vinculado: coder-flex-88100-7642d
 
 
