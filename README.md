@@ -3,9 +3,13 @@
 PROYECTO FINAL
 
 Librerías Utilizadas
+
 -React Bootstrap
+
 -Firebase
+
 -React Router Dom
+
 -Sitio de Firebase Hosting vinculado: coder-flex-88100-7642d
 
 
