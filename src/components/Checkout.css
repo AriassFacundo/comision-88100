@@ -1,0 +1,29 @@
+.checkout-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkout-form {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 320px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.checkout-form input {
+  padding: 10px;
+}
+
+.checkout-form button {
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
